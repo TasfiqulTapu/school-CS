@@ -3,7 +3,7 @@ This is a repo containing all the exercises and examples that my school book con
 
 ## Quick links
 [HTML](/html)<br>
-[C](/C)
+[C](/c)
 
 ## Naming convention
 `no *_mod*` => written to book's spec<br>
